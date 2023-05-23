@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <FontFamily x:Key="Poppins">/Fonts/#Poppins</FontFamily>
+    <FontFamily x:Key="Oswald">/Fonts/#Oswald</FontFamily>
+    <FontFamily x:Key="SansPro">/Fonts/#Source Sans Pro</FontFamily>
+    
+</ResourceDictionary>
